@@ -1,0 +1,1 @@
+<?php $pdo = new PDO("mysql:host=localhost;dbname=mycar-bd;charset=cp1251", "root", ""); ?>
